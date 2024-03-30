@@ -1,9 +1,9 @@
 <?php
 # FileName="connect.php"
-$hostname = "localhost";
-$username = "root";
-$database = "konkuk_u_intelling_things_lab3";
-$password = "321";
+$hostname = "";
+$username = "";
+$database = "";
+$password = "";
 $connect = mysqli_connect($hostname, $username,$password ,$database )
 or die('Could not connect: ' . mysql_error());
 ?>
