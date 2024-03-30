@@ -1,9 +1,9 @@
 
 <?php
 $host = "localhost";
-$user = "root";
-$database = "konkuk_u_intelling_things_lab";
-$password = "new_password";
+$user = ""; #username
+$database = ""; #database name
+$password = ""; #password
 $log_connect = mysqli_connect($host,$user,$password,$database);
 
 if(mysqli_connect_errno()){
