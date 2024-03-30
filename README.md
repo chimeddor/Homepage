@@ -1,4 +1,3 @@
-=======
 # Intelligent-Things-lab
 php과 MySQL을 사용한 홈페이지
 
