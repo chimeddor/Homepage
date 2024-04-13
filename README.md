@@ -26,7 +26,7 @@ apache2
 <br>
 6)
 ![Screenshot 2024-03-30 at 20 52 56](https://github.com/chimeddor/Homepage/assets/53028417/6c1bf41c-15cf-41f9-b0a0-b4012de0c656)
-7) phone mode <br>
+7) phone mode <br> <br>
 ![IMG_5517](https://github.com/chimeddor/Homepage/assets/53028417/18bb9857-d550-488e-90a9-5e20b38ebff8)
 
 
